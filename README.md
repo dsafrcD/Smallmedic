@@ -33,3 +33,7 @@ php artisan serve
 ## Fazer login: 
 - Usuário: teste@teste.com.br
 - Senha: 123456 
+
+<hr>
+## Apos tudo rodar ira aparecer essa tela.
+https://github.com/dsafrcD/Smallmedic/blob/main/Prints/login.JPG
