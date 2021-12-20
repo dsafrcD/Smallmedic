@@ -36,4 +36,4 @@ php artisan serve
 
 <hr>
 ## Apos tudo rodar ira aparecer essa tela.
-https://github.com/dsafrcD/Smallmedic/blob/main/Prints/login.JPG
+![Alt text](https://github.com/dsafrcD/Smallmedic/blob/main/Prints/login.JPG)
