@@ -1,11 +1,11 @@
 # Small - Medic
-Repositório teste de uma agenda simples para consultório em geral feito e Laravel e Mysql
+Repositório teste de uma agenda simples para consultório em geral feito e Laravel e Mysql<br><br>
 
 # Instalando o Small - Medic 
-Clonar o projeto pra seu pc, ou baixar ele e descompactar em uma pasta chamada smallmedic;
-Criar o banco de dados em MYSQL com o nome de smallmedic;
-Configurar o arquivo .env com os dados de usuario e banco criado no seu gerenciador do banco de dados;
-Obs: Eu deixei como root mesmo assim fica mas facil de testar;
+Clonar o projeto pra seu pc, ou baixar ele e descompactar em uma pasta chamada smallmedic.<br>
+Criar o banco de dados em MYSQL com o nome de smallmedic.<br>
+Configurar o arquivo .env com os dados de usuario e banco criado no seu gerenciador do banco de dados.<br
+Obs: Eu deixei como root mesmo assim fica mas facil de testar.
 <hr>;
 Na pasta smallmedic, executar em sequência: 
 
@@ -28,8 +28,7 @@ Em seu navegador preferido e execute essa url http://127.0.0.1:8000
 php artisan serve
 ```
 ## Fazer login: 
-Usuário: teste@teste.com.br
-Senha: 123456 
+Usuário: <b>teste@teste.com.br</b> -Senha: <b>123456</b> 
 
 <hr>
 ## Apos logar:
