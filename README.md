@@ -32,7 +32,6 @@ Usuário: <b>teste@teste.com.br</b> -Senha: <b>123456</b>
 
 <hr>
 ## Apos logar:
-
 Va ate a pagina: Gestão de Medicos -> Usuario e cadastre um medico exemplo;
 Em usuario va e novo usuario "Botão verde bem em cima da pagina", Informe o nome, o e-mail e a senha, logo em baixo nas funções, informe a função Medico, depois clique em salvar;
 <br><br>
