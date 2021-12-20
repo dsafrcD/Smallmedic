@@ -6,7 +6,7 @@ Clonar o projeto pra seu pc, ou baixar ele e descompactar em uma pasta chamada s
 Criar o banco de dados em MYSQL com o nome de smallmedic.<br>
 Configurar o arquivo .env com os dados de usuario e banco criado no seu gerenciador do banco de dados.<br
 Obs: Eu deixei como root mesmo assim fica mas facil de testar.
-<hr>;
+<hr>
 Na pasta smallmedic, executar em sequência: 
 
 ``` 
