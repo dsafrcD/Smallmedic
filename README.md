@@ -21,19 +21,19 @@ Após terminar de baixar tudo e atualizar via composer, executar o comnando;
 ```
 php artisan serve
 ```
-<br>
-
 ## Executar o projeto:
-
 Em seu navegador preferido e execute essa url http://127.0.0.1:8000
 
 ```
 php artisan serve
 ```
 ## Fazer login: 
-- Usuário: teste@teste.com.br
-- Senha: 123456 
+Usuário: teste@teste.com.br
+Senha: 123456 
 
 <hr>
-## Apos tudo rodar ira aparecer essa tela.
-![ScreenShot](https://github.com/dsafrcD/Smallmedic/blob/main/Prints/login.JPG)
+## Apos logar:
+
+Va ate a pagina: Gestão de Medicos -> Usuario e cadastre um medico exemplo;
+Em usuario va e novo usuario "Botão verde bem em cima da pagina", Informe o nome, o e-mail e a senha, logo em baixo nas funções, informe a função Medico, depois clique em salvar;
+
